@@ -1,4 +1,4 @@
 # excelr
-this is my first repositorys
+this is my first repository
 <br>
 Author - Zoya Khan
